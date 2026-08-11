@@ -1,6 +1,7 @@
 # How to Install FitGirl or DODI Windows Repacks on Linux using Lutris
 
 ## Table of Contents
+0. **[Heroic Games Launcher](https://github.com/elmhadji/instal_repacks_in_Linux/blob/main/README_V2.md)** — Recommended for a simple setup
 1. [Introduction](#introduction)
 2. [What is Lutris?](#what-is-lutris)
 3. [Setting Up Lutris](#setting-up-lutris)
